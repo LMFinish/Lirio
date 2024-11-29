@@ -1,6 +1,7 @@
 # Lírio
 
-Injetor de Gecko para Nintendo GameCube / Decompilador PowerPC
+Injetor de modificações Gecko para Nintendo GameCube / Decompilador PowerPC
+(c) 2024 Kevin Andrade "LMFinish"
 
 ![Preview](https://i.ibb.co/qW7mjgr/Lirio2.png)
 
