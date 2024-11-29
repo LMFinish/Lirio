@@ -2,7 +2,7 @@
 
 Injetor de Action Replay para Nintendo GameCube / Decompilador PowerPC
 
-![Preview](https://i.ibb.co/bz2Mh73/Lily-v1-1.png)
+![Preview](https://i.ibb.co/qW7mjgr/Lirio2.png)
 
 Lírio é uma ferramenta baseada em terminal/command prompt criada para injetar, tornar permanentes, modificações do tipo Gecko (um formato de trapaça ou modificação comum em jogos), em um executável de Nintendo GameCube (.dol). Para usar, crie o arquivo code.txt, digite as linhas de código desejadas, sem espaços ou quebras de linhas extras, e execute injetar.bat. 
 
