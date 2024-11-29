@@ -1,6 +1,6 @@
 # Lírio
 
-Injetor de Action Replay para Nintendo GameCube / Decompilador PowerPC
+Injetor de Gecko para Nintendo GameCube / Decompilador PowerPC
 
 ![Preview](https://i.ibb.co/qW7mjgr/Lirio2.png)
 
